@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+h1
+{
+	color:red;
+}
+body  {
+  background-image: url("/student-management/URLToReachResourcesFolder/images/bg-cover.jpg");
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
